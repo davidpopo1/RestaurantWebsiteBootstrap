@@ -7,3 +7,6 @@ h3 {
 .blockquote-footer {
     text-align: center;
 }
+.carousel-inner img {
+    margin: auto;
+  }
